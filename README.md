@@ -1,4 +1,4 @@
-IMPORTANT NOTES FOR GITHUB 
+# BASIC IMPORTANT NOTES FOR GITHUB IN CMD & VSCODE
 
 ### 1. **Cloning a Repository**
 ```bash
